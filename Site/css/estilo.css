@@ -19,7 +19,7 @@ body {
 #bordehov2 {
   position: absolute;
   top: 30%;
-  left: 45%;
+  left: 50%;
   border:2px black;
   border-style: double;
   padding: 0px;
